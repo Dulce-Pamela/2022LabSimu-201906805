@@ -1,0 +1,11 @@
+# Datos sobre el precio de dos stocks en dolares de diferentes años (año, s1, s2)
+1980    49  162
+1981    52  144
+1983    67  140
+1984    53  122
+1985    57  125
+1986    60  117
+1987    70  112
+1988    60  121
+1989    56  123
+1990    61  135
